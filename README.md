@@ -12,8 +12,10 @@ The goal of this project is to build an analytical system that processes transac
 - Fraud detection models
 
 ## Tech Stack
-- Python
-- Pandas
+- Python (FastAPI, pandas)
+- JS, HTML, CSS
+- SQLite
+- PySpark
 - Jupyter Notebook
 
 ## Project Structure
@@ -22,6 +24,11 @@ data/
 notebooks/  
 pipeline.py  
 
+## Documentation
+Documentation is here: Документаия_СРС_BigData_СейдалыРауан.pdf
+
 ## Project Type
 University course Project  
 2026
+
+
